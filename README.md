@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Galahad43
+- 👋 Hi, I’m Galahad43
 - 👀 I’m a beginner 
 - 🌱 I’m currently learning nothing
 
