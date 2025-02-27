@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Galahad43
 - 👀 I’m a beginner 
 - 🌱 I’m currently learning nothing
+- Interested in LFR
+
 
 <!---
 Galahad43/Galahad43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
